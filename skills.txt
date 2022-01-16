@@ -1,0 +1,4 @@
+ The next skills will be learned on the course:
+ Git, Postman, Charles, SQL, Jmeter, Mobile Testing, Bag Reports, Checklists
+
+
