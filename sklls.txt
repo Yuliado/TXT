@@ -1,1 +1,0 @@
-The next skills will be learned on the course: git,postman,charles, SQL
